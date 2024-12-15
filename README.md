@@ -1,6 +1,6 @@
 ## Datasets used
 
-1. [Original Dataset - Chargemaster Data]()
+1. [Original Dataset - Chargemaster Data](https://www.kaggle.com/datasets/jpmiller/healthcare)
 2. [Word Embeddings for Conditions](https://drive.google.com/file/d/16JHCrP5gdMIZqWyEeu774kzsf9LiebBs/view?usp=drive_link)
 3. [Condition Cluster Dataset](https://drive.google.com/file/d/1sVZqUEG22L9XwzQEM3DygIPxP7QH7Gy8/view?usp=drive_link)
 4. [Post-Preprocessing Dataset Joined with Census Data](https://drive.google.com/file/d/1P-NxjLkQ5VoCe7pq3OjWXpLRzmP2jNb2/view?usp=drive_link)
